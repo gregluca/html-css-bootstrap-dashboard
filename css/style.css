@@ -1,0 +1,22 @@
+.wrapper {
+    height: calc(100vh - 80px);
+}
+img {
+    max-width: 100%;
+}
+.nav {
+    height: 80px;
+    border: 1px solid black;
+}
+.main-conteiner {
+    display: flex;
+    height: calc(100vh - 80px);
+}
+.container-fluid {
+    overflow-y: auto;
+}
+.sidebar {
+    height: 100%;
+    width: 80px;
+    background-color: rgb(6 30 52);
+}
