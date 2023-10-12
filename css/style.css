@@ -8,9 +8,6 @@ img {
 .size-logo {
     width: 100px;
 }
-a:last-child {
-    color: orange;
-}
 .sidebar {
     height: 100vh;
     width: 80px;
@@ -36,4 +33,7 @@ a:last-child {
     color: white;
     border: none;
     margin-right: 10px;
+}
+.badge {
+    background-color:#165bba ;
 }
