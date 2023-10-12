@@ -28,3 +28,12 @@ a:last-child {
 .container-fluid {
     overflow-y: scroll;
 }
+.btn-red {
+    height: 30px;
+    width: 30px;
+    border-radius: 50% ;
+    background-color: #f26551;
+    color: white;
+    border: none;
+    margin-right: 10px;
+}
